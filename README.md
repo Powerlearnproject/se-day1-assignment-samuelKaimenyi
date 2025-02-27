@@ -46,7 +46,7 @@ Challenge: Bugs can be difficult to identify and fix, especially in large and co
 Strategy , Seek help from colleagues or online communities when stuck.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Reason 1: Unit Testing: Unit testing is essential for early bug detection. Testing components in isolation allows developers to quickly identify and resolve errors, improving efficiency and reducing costs.
+Reason 1:  Unit testing is essential for early bug detection. Testing components in isolation allows developers to quickly identify and resolve errors, improving efficiency and reducing costs.
 
 Reason 2: Integration Testing: Integration testing ensures that software units work together correctly. It identifies potential incompatibilities, ensuring that all components function cohesively.
 
